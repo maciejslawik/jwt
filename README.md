@@ -1,4 +1,7 @@
 [![Build Status](https://travis-ci.org/maciejslawik/jwt.svg?branch=master)](https://travis-ci.org/maciejslawik/jwt)
+[![Latest Stable Version](https://poser.pugx.org/mslwk/jwt/v/stable)](https://packagist.org/packages/mslwk/jwt)
+[![License](https://poser.pugx.org/mslwk/jwt/license)](https://packagist.org/packages/mslwk/jwt)
+
 # JSON Web Token encoder/decoder #
 
 The library provides dead easy way of creating and verifing JSON Web Tokens.
