@@ -1,0 +1,33 @@
+{
+  "name": "mslwk/jwt",
+  "description": "JSON Web Token handling library",
+  "type": "library",
+  "license": [
+    "MIT"
+  ],
+  "authors": [
+    {
+      "name": "Maciej Sławik",
+      "email": "maciekslawik@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.0.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.0.0"
+  },
+  "keywords": [
+    "JWT"
+  ],
+  "autoload": {
+    "psr-4": {
+      "MSlwk\\Jwt\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "MSlwk\\Jwt\\Tests\\": "tests"
+    }
+  }
+}
