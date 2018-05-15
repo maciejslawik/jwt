@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.org/maciejslawik/jwt.svg?branch=master)](https://travis-ci.org/maciejslawik/jwt)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/maciejslawik/jwt/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/maciejslawik/jwt/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/maciejslawik/jwt/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/maciejslawik/jwt/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/maciejslawik/jwt/badges/build.png?b=master)](https://scrutinizer-ci.com/g/maciejslawik/jwt/build-status/master)
 [![Latest Stable Version](https://poser.pugx.org/mslwk/jwt/v/stable)](https://packagist.org/packages/mslwk/jwt)
 [![License](https://poser.pugx.org/mslwk/jwt/license)](https://packagist.org/packages/mslwk/jwt)
 
