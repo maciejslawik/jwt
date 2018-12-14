@@ -3,6 +3,7 @@
 [![Build Status](https://scrutinizer-ci.com/g/maciejslawik/jwt/badges/build.png?b=master)](https://scrutinizer-ci.com/g/maciejslawik/jwt/build-status/master)
 [![Latest Stable Version](https://poser.pugx.org/mslwk/jwt/v/stable)](https://packagist.org/packages/mslwk/jwt)
 [![License](https://poser.pugx.org/mslwk/jwt/license)](https://packagist.org/packages/mslwk/jwt)
+[![Total Downloads](https://poser.pugx.org/mslwk/jwt/downloads)](https://packagist.org/packages/mslwk/jwt)
 
 # JSON Web Token encoder/decoder #
 
